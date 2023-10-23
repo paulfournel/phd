@@ -1,6 +1,6 @@
 ### Implementing a greedy algorithm for set cover
 
-library("gurobi")
+library("gurobi")##
 
 
 numberOfElements = 8
